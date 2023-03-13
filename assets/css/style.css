@@ -1,0 +1,24 @@
+p
+{
+    background-color: brown;
+}
+
+#bal_oldal
+{
+    position: absolute;
+    top: 105px;
+    left: 310px;
+    z-index: 1;
+    width: 180px;
+    height: 245px;
+}
+
+#jobb_oldal
+{
+    position: absolute;
+    top: 105px;
+    left: 520px;
+    z-index: 1;
+    width: 180px;
+    height: 245px;
+}
