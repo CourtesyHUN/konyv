@@ -3,6 +3,10 @@
     background-color: brown;
 } */
 
+p{
+    font-family:monospace;
+}
+
 #bal_oldal
 {
     position: absolute;
